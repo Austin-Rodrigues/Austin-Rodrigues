@@ -22,7 +22,7 @@ I work across the full data lifecycle, from ingestion and large-scale transforma
 ## Tech Stack
 
 **Programming Languages**  
-Python, SQL, Bash/Shell Scripting
+Python, SQL, R, Bash/Shell Scripting
 
 **Data Engineering & Big Data**  
 PySpark, Apache Airflow, Azure Data Factory, Databricks, Azure Data Lake Gen2, Delta Lake, Apache Kafka (basics)
