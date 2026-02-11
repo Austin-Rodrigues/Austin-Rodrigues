@@ -1,5 +1,79 @@
 # 💫 About Me:
-Hi, I’m Austin<br><br>I’m a Data Engineer / Data Analyst with a background in Applied Data Science, focused on building end-to-end data pipelines, analytics-ready data models, and business-driven insights.<br><br>I work across the full data lifecycle, from ingestion and large-scale transformation to analysis, visualization, and light modeling. My interests sit at the intersection of data engineering, analytics engineering, and practical data science, with a growing focus on building data foundations that support modern AI systems.<br><br>What I’m focused on<br><br>Designing end-to-end data pipelines (source → warehouse → dashboard)<br><br>Cloud data warehousing with Snowflake<br><br>Analytics engineering using dbt (models, tests, documentation)<br><br>Large-scale data processing with PySpark<br><br>Business intelligence using Tableau and Power BI<br><br>Light data science workflows (EDA, feature engineering, basic modeling)<br><br>Exploring AI, AGI concepts, RAG pipelines, and AI Agents built on strong data foundations<br><br>Tech Stack<br><br>Programming Languages: Python, SQL<br>Data Engineering & Big Data: PySpark, Azure Data Factory, Databricks, Azure Data Lake Gen2<br>Data Warehousing: Snowflake<br>Data Modeling & Analytics Engineering: Star Schema, Fact & Dimension Modeling, dbt<br>Data Science & Analytics: EDA, Feature Engineering, Regression, Classification<br>Visualization & BI: Tableau, Power BI<br>Cloud & Tools: Azure, Git, GitHub, VS Code<br><br>What you’ll find here<br><br>End-to-end data pipelines with clean, maintainable transformations<br><br>Snowflake and dbt-based analytics engineering projects<br><br>PySpark data processing at scale<br><br>BI dashboards designed for business stakeholders<br><br>Data platforms built to support AI and RAG use cases<br><br>Quick facts<br><br>I’m currently working on: End-to-end pipelines using Snowflake, dbt, and PySpark with analytics-ready outputs<br><br>I’m looking to collaborate on: Data engineering, analytics engineering, and AI-ready data projects<br><br>I’m looking for help with: Production-grade orchestration, scalability, and cost optimization<br><br>I’m currently learning: RAG architectures, AI Agents, and modern AI system design<br><br>Ask me about: Data modeling, dbt, Snowflake, PySpark, Tableau, Power BI, and pipeline design<br><br>Fun fact: A single image from the James Webb Space Telescope can contain millions of data points processed through complex pipelines.
+Hi, I’m **Austin**.
+
+I’m a **Data Engineer / Data Analyst** with a background in **Applied Data Science**, focused on building **end-to-end data pipelines**, **analytics-ready data models**, and **business-driven insights**.
+
+I work across the full data lifecycle, from ingestion and large-scale transformation to analysis, visualization, and light modeling. My interests sit at the intersection of **data engineering, analytics engineering, and practical data science**, with a growing focus on building data foundations that support modern AI systems.
+
+---
+
+## What I’m Focused On
+
+- Designing **end-to-end data pipelines** (source → warehouse → dashboard)
+- Cloud data warehousing with **Snowflake**
+- Analytics engineering using **dbt** (models, tests, documentation)
+- Large-scale data processing with **PySpark**
+- Business intelligence using **Tableau** and **Power BI**
+- Light data science workflows (**EDA, feature engineering, basic modeling**)
+- Exploring **AI, AGI concepts, RAG pipelines, and AI Agents** built on strong data foundations
+
+---
+
+## Tech Stack
+
+**Programming Languages**  
+Python, SQL  
+
+**Data Engineering & Big Data**  
+PySpark, Azure Data Factory, Databricks, Azure Data Lake Gen2  
+
+**Data Warehousing**  
+Snowflake  
+
+**Data Modeling & Analytics Engineering**  
+Star Schema, Fact & Dimension Modeling, dbt  
+
+**Data Science & Analytics**  
+EDA, Feature Engineering, Regression, Classification  
+
+**Visualization & BI**  
+Tableau, Power BI  
+
+**Cloud & Tools**  
+Azure, Git, GitHub, VS Code  
+
+---
+
+## What You’ll Find Here
+
+- End-to-end data pipelines with clean, maintainable transformations  
+- Snowflake and dbt-based analytics engineering projects  
+- PySpark data processing at scale  
+- BI dashboards designed for business stakeholders  
+- Data platforms built to support **AI and RAG use cases**
+
+---
+
+## Quick Facts
+
+- **I’m currently working on:**  
+  End-to-end pipelines using Snowflake, dbt, and PySpark with analytics-ready outputs
+
+- **I’m looking to collaborate on:**  
+  Data engineering, analytics engineering, and AI-ready data projects
+
+- **I’m looking for help with:**  
+  Production-grade orchestration, scalability, and cost optimization
+
+- **I’m currently learning:**  
+  RAG architectures, AI Agents, and modern AI system design
+
+- **Ask me about:**  
+  Data modeling, dbt, Snowflake, PySpark, Tableau, Power BI, and pipeline design
+
+- **Fun fact:**  
+  A single image from the James Webb Space Telescope can contain millions of data points processed through complex pipelines.
+
 
 
 ## 🌐 Socials:
