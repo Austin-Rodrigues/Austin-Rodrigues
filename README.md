@@ -22,26 +22,35 @@ I work across the full data lifecycle, from ingestion and large-scale transforma
 ## Tech Stack
 
 **Programming Languages**  
-Python, SQL  
+Python, SQL, Bash/Shell Scripting
 
 **Data Engineering & Big Data**  
-PySpark, Azure Data Factory, Databricks, Azure Data Lake Gen2  
+PySpark, Apache Airflow, Azure Data Factory, Databricks, Azure Data Lake Gen2, Delta Lake, Apache Kafka (basics)
 
-**Data Warehousing**  
-Snowflake  
+**Data Warehousing & Storage**  
+Snowflake, Azure Synapse Analytics, PostgreSQL, SQL Server
 
 **Data Modeling & Analytics Engineering**  
-Star Schema, Fact & Dimension Modeling, dbt  
+Star Schema, Fact & Dimension Modeling, dbt (models, tests, macros, documentation), Slowly Changing Dimensions (SCD), Data Vault (basics)
+
+**ETL/ELT & Orchestration**  
+Apache Airflow, Azure Data Factory, dbt Cloud, CI/CD for data pipelines
+
+**Data Quality & Testing**  
+dbt tests, Great Expectations, data profiling, schema validation
 
 **Data Science & Analytics**  
-EDA, Feature Engineering, Regression, Classification  
+Pandas, NumPy, EDA, Feature Engineering, Regression, Classification, Statistical Analysis
 
 **Visualization & BI**  
-Tableau, Power BI  
+Tableau, Power BI, DAX, SQL-based reporting, KPI design
 
-**Cloud & Tools**  
-Azure, Git, GitHub, VS Code  
+**Cloud & DevOps**  
+Azure (Data Factory, Databricks, Data Lake, Blob Storage), Git, GitHub, Docker (basics), VS Code, Azure DevOps
 
+**Other Tools & Concepts**  
+REST APIs, JSON/XML parsing, data lineage tracking, performance optimization, query tuning
+ 
 ---
 
 ## What You’ll Find Here
